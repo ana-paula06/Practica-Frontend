@@ -34,7 +34,6 @@ body{
     justify-content: center;
 }
 img{
-
     width: 300px;
 }
 .search-bar{
@@ -45,7 +44,7 @@ img{
     align-items: center;
     padding: 5px 10px;
     margin: 10px auto;
-    width: 60%;
+    width: 65%;
 }
 .search-bar:focus-within{
     border: solid 1px #aaa;
