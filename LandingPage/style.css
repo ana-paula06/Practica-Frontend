@@ -41,6 +41,10 @@
     text-decoration: none;
     margin-left: 40px;
   }
+  .main header .navigation li a:hover {
+    color: #fbff00;
+    border-bottom: solid #ffffff 2px;
+  }
   .main .content {
     margin-top: 50px;
     position: relative;
